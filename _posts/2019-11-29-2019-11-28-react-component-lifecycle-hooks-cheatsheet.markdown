@@ -66,7 +66,7 @@ Class List extends React.Component {
 }
 ```
 
-Live demo is available on <a href="https://codepen.io/Bunlong/pen/NzZbZv">CodePen</a>.
+Live demo is available on <a href="https://codepen.io/Bunlong/pen/NzZbZv" target="_blank">CodePen</a>.
 
 <a name="everything-can-be-a-child-component"></a>
 ### 2.1. Everything Can be a Child Component
@@ -100,7 +100,7 @@ class Executor extends React.Component {
 }
 ```
 
-Live demo is available on <a href="https://codepen.io/Bunlong/pen/jKjmbr">CodePen</a>.
+Live demo is available on <a href="https://codepen.io/Bunlong/pen/jKjmbr" target="_blank">CodePen</a>.
 
 <a name="manipulating-children-component"></a>
 ## 3. Manipulating Children Components
@@ -147,7 +147,7 @@ class IgnoreSecondChild extends React.Component {
 
 ![React.Children.map]({{site.baseurl}}/assets/img/react-children-map-2.png)
 
-Live demo is available on <a href="https://codepen.io/Bunlong/pen/yEdXGr">CodePen</a>.
+Live demo is available on <a href="https://codepen.io/Bunlong/pen/yEdXGr" target="_blank">CodePen</a>.
 
 <a name="counting-children-components"></a>
 ### 3.2. Counting Children Components
@@ -170,7 +170,7 @@ It would returns the number of children no matter what type they are.
 </ChildrenCounter>
 ```
 
-Live demo is available on <a href="https://codepen.io/Bunlong/pen/yEmYbE">CodePen</a>.
+Live demo is available on <a href="https://codepen.io/Bunlong/pen/yEmYbE" target="_blank">CodePen</a>.
 
 <a name="converting-children-components-to-an-array"></a>
 ### 3.3. Converting Children Components to an Array
@@ -194,7 +194,7 @@ It would render the sorted strings.
 </ChildrenSorter>
 ```
 
-Live demo is available on <a href="https://codepen.io/Bunlong/pen/wXLqWQ">CodePen</a>.
+Live demo is available on <a href="https://codepen.io/Bunlong/pen/wXLqWQ" target="_blank">CodePen</a>.
 
 <a name="enforcing-only-one-child-component"></a>
 ### 3.4. Enforcing Only One Child Component
@@ -209,7 +209,7 @@ class Executor extends React.Component {
 }
 ```
 
-Live demo is available on <a href="https://codepen.io/Bunlong/pen/XYLagK">CodePen</a>.
+Live demo is available on <a href="https://codepen.io/Bunlong/pen/XYLagK" target="_blank">CodePen</a>.
 
 <a name="modifying-children-components"></a>
 ## 4. Modifying Children Components
@@ -368,7 +368,7 @@ ReactDOM.render(
 );
 ```
 
-Live demo is available on <a href="https://codepen.io/Bunlong/pen/aKgVgd">CodePen</a>.
+Live demo is available on <a href="https://codepen.io/Bunlong/pen/aKgVgd" target="_blank">CodePen</a>.
 
 ## References
 
