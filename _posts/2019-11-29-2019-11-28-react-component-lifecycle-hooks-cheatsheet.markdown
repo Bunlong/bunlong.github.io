@@ -2,7 +2,7 @@
 layout: post
 title: React Child Component Cheatsheet 📄
 date: 2019-11-29 00:00:00 +0300
-description: React Child Component Cheatsheet 📄
+description: Nested Components is children nested inside parent components. It simply help us create more complex UI structures.
 img: react-child-component-cheatsheet.png
 fig-caption: # Add figcaption (optional)
 tags: [javascript, webdev, beginners, codenewbie] # add tag
