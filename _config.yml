@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Bunlong # add your name
 author-img: bunlong.jpg # add your photo
-about-author: Follow me on <a>Twitter</a> to catch my weekly articles. # add description
+about-author: Follow me on <a href="https://www.twitter.com/bunlongvan">Twitter</a> to catch my weekly articles. # add description
 social-twitter: bunlongvan # add your Twitter handle
 social-facebook: CoderVlog # add your Facebook handle
 social-github: bunlong # add your Github handle
