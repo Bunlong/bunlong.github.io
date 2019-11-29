@@ -41,7 +41,7 @@ section {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-  font-size: 2em;
+  /*font-size: 2em;*/
   margin: 0.67em 0;
 }
 
@@ -774,7 +774,7 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
