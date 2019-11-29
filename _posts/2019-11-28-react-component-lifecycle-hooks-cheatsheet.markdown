@@ -170,7 +170,7 @@ According to the React docs, `getSnapshotBeforeUpdate`, `componentDidCatch` and 
 
 * <a href="https://reactjs.org/docs/hooks-intro.html">Hooks at a Glance – React</a>
 
-Thanks for reading ❤
+Thanks for reading ❤ <br/>
 Say Hello! <a href="https://twitter.com/bunlongvan">Twitter</a> | <a href="https://github.com/bunlong">Github</a> | <a href="https://www.linkedin.com/in/bunlongvan">LinkedIn</a> | <a href="https://www.facebook.com/codervlog">Facebook</a> | <a href="https://www.instagram.com/codervlog">Instagram</a>
 
 ## Like ❤️
