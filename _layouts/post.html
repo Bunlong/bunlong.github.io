@@ -22,9 +22,9 @@ layout: main
       {{content | markdownify}}
       <div class="page-footer">
         <div class="page-share">
-          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank">Twitter</a>
-          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank">Facebook</a>
-          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank">Google+</a>
+          <b>Please share to your DEV friends on</b>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }} by @bunlongvan%20%23DEVcommunity%20&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank" style="border: 1px solid #1BA1F2; background-color: #1BA1F2; color: #ffff">Twitter</a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank" style="border: 1px solid #3B5998; background-color: #3B5998; color: #ffff">Facebook</a>
         </div>
         <div class="page-tag">
           {% for tag in page.tags %}
